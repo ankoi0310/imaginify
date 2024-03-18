@@ -1,0 +1,23 @@
+{
+  "cSpell.ignoreWords": [
+    "Caskaydia",
+    "clsx",
+    "esbenp",
+    "Fira",
+    "Imaginify",
+    "lucide",
+    "nextjs",
+    "Parens",
+    "rvest",
+    "tabnine",
+    "tailwindcss",
+    "trpc",
+    "winopacity"
+  ],
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.autoClosingTags": true,
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+  "cSpell.words": ["xlink"]
+}
