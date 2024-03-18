@@ -19,5 +19,5 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "html.autoClosingTags": true,
   "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
-  "cSpell.words": ["xlink"]
+  "cSpell.words": ["svix", "xlink"]
 }
